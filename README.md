@@ -1,4 +1,4 @@
-# Projeto Cinema (IoC)
+# Cinema (IoC)
 
 ## Descrição
 O Projeto Cinema tem como objetivo modelar e gerenciar filmes, salas e sessões de um cinema.
